@@ -1,4 +1,5 @@
-# Java_TetrisPieceGenerator
+# tetris-piece-generator
+
 Generates a Tetris piece with random color, shape, and orientation
 
 Examples:
